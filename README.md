@@ -1,20 +1,51 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ELORA Café — Prompt Engineering Project
 
-# Run and deploy your AI Studio app
+## Overview
 
-This contains everything you need to run your app locally.
+ELORA Café is a fictional café website created as a **Prompt Engineering and Generative AI portfolio project**.
 
-View your app in AI Studio: https://ai.studio/apps/8df18d33-bc80-46c8-a336-507818b5244f
+The project demonstrates how structured, context-rich prompts can be used to develop a consistent brand identity, website content, visual direction, and responsive digital experience.
 
-## Run Locally
+> **Note:** ELORA Café is a fictional brand created for portfolio and educational purposes.
 
-**Prerequisites:**  Node.js
+## Key Focus
 
+- Prompt Engineering
+- Generative AI
+- Visual & Creative Prompting
+- AI-Assisted Website Development
+- Iterative Prompt Refinement
+- Brand & Content Generation
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Workflow
+
+**Requirement → Prompt Design → AI Generation → Evaluation → Refinement → Final Website**
+
+## Prompt Engineering Techniques
+
+- Role Prompting
+- Context Setting
+- Task Definition
+- Constraint-Based Prompting
+- Structured Requirements
+- Visual Prompting
+- Composition Control
+- Iterative Refinement
+- Consistency Control
+- Negative Instructions
+
+## Technologies & Tools
+
+- HTML
+- CSS
+- JavaScript
+- Generative AI
+- Prompt Engineering
+- GitHub
+
+## Author
+
+**Elakiya R**  
+B.Tech Artificial Intelligence & Machine Learning
+
+**Focus Areas:** Generative AI · Prompt Engineering · LLM Applications · RAG · LangChain · Python
