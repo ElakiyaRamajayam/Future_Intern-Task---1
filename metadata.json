@@ -1,0 +1,6 @@
+{
+  "name": "ELORA Café",
+  "description": "A refined, modern website for ELORA Café featuring thoughtfully brewed coffee, artisanal signature drinks, breakfast, pastries, and a calm, welcoming space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
