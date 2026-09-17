@@ -49,3 +49,19 @@ The project demonstrates how structured, context-rich prompts can be used to dev
 B.Tech Artificial Intelligence & Machine Learning
 
 **Focus Areas:** Generative AI · Prompt Engineering · LLM Applications · RAG · LangChain · Python
+## DEMO Screenshots
+
+### Home
+![ELORA Café Home](Home.JPG)
+
+### About
+![ELORA Café About](About.JPG)
+
+### Menu
+![ELORA Café Menu](Menu.JPG)
+
+### Visit Us
+![ELORA Café Visit Us](VisitUs.JPG)
+
+### Footer
+![ELORA Café Footer](Footer.JPG)
